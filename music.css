@@ -1,0 +1,60 @@
+.main-container {
+    background-color: #03174c;
+    background-size: 100vh;
+
+}
+
+.card-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    font-family: Bree serif;
+}
+
+.card-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    margin: 30px;
+    height: 70vh;
+    width: 90vw;
+    color: white;
+    font-family:cursive;
+    text-align: center;
+}
+
+.card-paragraph {
+    color: white;
+    font-family: Bree serif;
+    text-align: center;
+    size: 45px;
+}
+
+.card-button {
+    background-color: #8e97fd;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    border: 0px;
+}
+
+.card-heading2 {
+    color: white;
+    font-family: Bree serif;
+
+}
+
+.card-paragraph1 {
+    color: #98a1bd;
+    font-family: Bree serif;
+}
+.card-paragraph2 {
+    color: white;
+    font-family: Bree serif;
+    font-size: 30px;
+}
+
+.small-card {
+    margin: 8px;
+    padding: 0px;
+}
